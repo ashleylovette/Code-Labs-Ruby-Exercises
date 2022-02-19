@@ -1,3 +1,9 @@
 sentence = "Hello John Doe!"
 
-print sentence.sub('Hello', 'Hi')
+sentence = sentence.sub('Hello', 'Hi')
+
+puts sentence
+
+solution = "Hi John Doe!"
+
+puts sentence.match?(solution)
