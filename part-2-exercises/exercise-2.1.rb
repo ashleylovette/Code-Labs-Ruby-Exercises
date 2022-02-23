@@ -1,9 +1,15 @@
-puts "What is your name?"
+puts "What is your first name?"
 
-name = gets.chomp
+first_name = gets.chomp.downcase
 
-if (name == 'John' || 'john')
+puts "What is your last name?"
+
+last_name = gets.chomp.downcase
+
+if (first_name == 'john' && last_name == 'doe')
     puts "I found you!"
+elsif (first_name == 'amy' && last_name == 'jeans')
+    puts "Amy! Help me look for John"
 else
-    puts "You're not who I'm looking for #{name}."
+    puts "You're not who I'm looking for #{first_name.capitalize}."
 end
