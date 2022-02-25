@@ -26,3 +26,4 @@ puts array.select { |num|
         puts "#{b} is an odd number"
     end
 }
+
