@@ -18,12 +18,12 @@ array << 11
 
 
 # SELECT METHOD
-puts array.select { |num| 
+puts array.select { |num|
     b = num*2 
-    if (b%2 ==0)
+    if (b%2 == 0)
         puts "#{b} is an even number."
     else
-        puts "#{b} is an odd number"
+        puts "#{b} is an odd number."
     end
 }
 
