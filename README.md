@@ -32,4 +32,11 @@ Here is a list of ruby terms and definitions used in class.
 
 ## Part 3
 
+<em>**What is Object Oriented Programming?**</em> - A programming paradigm that uses objects and their interactions to design and program applications <br>
+<em>**Class inheritance**</em> - Class inherits all the traits and behaviors of another class <br>
+<em>**What are getters and setters?**</em> - Getter: returns the value of the attribute. Setter: sets the value of the attribute.<br>
+<em>**Difference between class variables and instance variables and class attributes?**</em> - Class variables are available through every instance of the class. Instance variables are only available on the individual instance. Attributes are specific properties of an object.<br>
+<em>**What does self signify in a class?**</em> - Creates an instance of the class <br>
+<em>\*\*Modules</em> - Used to bundle commonly used methods for classes <br>
+
 ## Part 4
