@@ -40,3 +40,7 @@ Here is a list of ruby terms and definitions used in class.
 <em>\*\*Modules</em> - Used to bundle commonly used methods for classes <br>
 
 ## Part 4
+
+<em>**Bundler**<em> - Used to install Ruby Gems <br>
+<em>**Gemfile**<em> - Used to describe gem dependencies <br>
+<em>**Bcrypt**<em> - Gem used for detailed encryption <br>
